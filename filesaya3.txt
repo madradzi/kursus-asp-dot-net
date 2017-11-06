@@ -1,1 +1,2 @@
 file saya nombo 3
+edit file3 ni dlm folder training2
